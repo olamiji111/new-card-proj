@@ -13,7 +13,7 @@ const numberInput = document.getElementById("cardNumber");
 function showToast(message, type) {
     Toastify({
         text: message,
-        duration: 3000,
+        duration: 4500,
         gravity: "top",
         position: "center",
         close: false,
