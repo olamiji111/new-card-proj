@@ -1,0 +1,36 @@
+html {
+  min-height: 100% important;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.financial-partner-app-container {
+  width: 100%;
+  height: 100%;
+}
+
+@keyframes SpinnerAnimationShow {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes SpinnerAnimationRotation {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+/*# sourceMappingURL=AmazonPayButton.2c4194f0fb901f7dba5d.css.map*/
